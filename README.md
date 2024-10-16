@@ -27,5 +27,5 @@
 2. **Installation**:
    ```bash
    git clone https://github.com/0promil/ddos_v1.git
-   cd 0promil
+   cd ddos_v1
    python3 ddos.py
