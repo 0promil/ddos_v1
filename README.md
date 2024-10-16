@@ -28,4 +28,4 @@
    ```bash
    git clone https://github.com/your_username/0promil.git
    cd 0promil
-   python3 0promil.py
+   python3 ddos.py
