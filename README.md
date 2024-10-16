@@ -26,6 +26,6 @@
 1. **Requirements**: Python 3.x must be installed.
 2. **Installation**:
    ```bash
-   git clone https://github.com/your_username/0promil.git
+   https://github.com/0promil/ddos_v1.git
    cd 0promil
    python3 ddos.py
